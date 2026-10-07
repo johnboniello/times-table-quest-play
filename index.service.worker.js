@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791415545|3583856';
+const CACHE_VERSION = '1791416139|3594593';
 /** @type {string} */
 const CACHE_PREFIX = 'Times-Table Ques-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
